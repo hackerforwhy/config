@@ -1,0 +1,5 @@
+#! /bin/bash
+
+#java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:BurpSuiteChs.jar -noverify -javaagent:BurpSuiteLoader.jar -jar burpsuite_pro_org.jar
+
+java --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED -javaagent:BurpSuiteChs.jar -noverify -javaagent:BurpSuiteLoader.jar -jar burpsuite_pro_org.jar

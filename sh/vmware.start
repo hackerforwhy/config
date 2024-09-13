@@ -1,0 +1,5 @@
+#! /usr/bin/bash
+
+sudo systemctl start vmware-networks.service  vmware-usbarbitrator.service & modprobe -a vmw_vmci vmmon
+
+#  vmware-hostd.service
