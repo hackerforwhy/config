@@ -1,14 +1,14 @@
 #$PATH
-export PATH=/home/arch/sh:/usr/bin/winetricks:/home/arch/.local/bin:$PATH
+export PATH=/home/arch/sh:/usr/bin/winetricks:/home/arch/.local/bin:/home/arch/.config/nnn/plugins:$PATH
 
 #nnn
 export NNN_PLUG='a:autojump;d:launch;c:cdpath;p:preview-tui;v:imgview;i:preview-tabbed;u:getplugs'
 export NNN_FIFO='/tmp/nnn.fifo nnn'
-export NNN_DEFAULT_EDITOR="emacs"
-export NNN_OPENER='nvim'
+export NNN_DEFAULT_EDITOR="vim"
+#export NNN_OPENER='nvim'
 #export NNN_OPENER='/usr/bin/nvim'
 #export NNN_OPENER='emacs'
-#export NNN_OPENER='/home/arch/.config/nnn/plugs/nuke'
+export NNN_OPENER='/home/arch/.config/nnn/plugins/nuke'
 export NNN_PREVIEWDIR="${NNN_PREVIEWDIR:-${TMPDIR:-/tmp}/nnn/previews}"
 export CONFIG_DIR=${XDG_CONFIG_HOME:-$HOME/.config}/nnn/
 export PLUGIN_DIR=${XDG_CONFIG_HOME:-$HOME/.config}/nnn/plugins
@@ -36,4 +36,3 @@ export QT_QPA_PLATFORMTHEME=qt6ct
 #export BAT_THEME=GitHub
 export TERM=kitty
 
-export BW_SESSION="S/iUJ6K4tVtz/JahnCZT++9gYu6k6zL+cUs76rrsEMUoY9jfFCU+RStwJQd3G1e/edsVfhKrBRGcJIqn5/UdsQ=="

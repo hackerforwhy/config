@@ -1,0 +1,4 @@
+#!/bin/bash
+
+command="swww init"
+eval $command
