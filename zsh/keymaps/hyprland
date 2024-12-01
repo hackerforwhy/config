@@ -1,0 +1,44 @@
+# Main modifier
+$mainMod = Super # super / meta / windows key
+
+bind = $mainMod, W,          # 浮动
+#bind = $mainMod, G,         #  在焦点和组之间切换窗口
+bind = $mainMod, Y,          #  全屏 
+bind = $mainMod, U,          # launch lock screer
+bind = $mainMod+Shift, F,    #  图钉
+bind = $mainMod, Backspace,  # launch logout menu
+bind = Ctrl+Alt, W,          # toggle waybar
+
+bind = $mainMod, P,  #  部分截图
+bind = $mainMod+Ctrl, P, # 截图(冻结屏幕)
+bind = $mainMod+Alt, P,  # 监控截图捕捉
+bind = , Print, exec,  # 所有显示器屏幕截图
+
+# Move/Resize focused window
+bindm = $mainMod, mouse:272, movewindow
+bindm = $mainMod, mouse:273, resizewindow
+bindm = $mainMod, Z, movewindow
+bindm = $mainMod, X, resizewindow
+
+# Move/Switch to special workspace (scratchpad)
+bind = $mainMod+Alt, S, movetoworkspacesilent, special # 特殊工作区
+bind = $mainMod, S, togglespecialworkspace,  # 切换特殊工作区
+#bind = $mainMod, T, exec, pot  # 翻译
+
+bind = Ctrl+Alt, N, exec,  pkill nm-applet || nm-applet --indicator #网络 
+bind = Ctrl+Alt, B, exec, pkill blueman-applet || nm-applet  #蓝牙 
+
+bind = $mainMod, O, exec, curl "127.0.0.1:60828/selection_translate"  #翻译
+bind = $mainMod SHIFT, O, exec, grim -g "$(slurp)" ~/.cache/com.pot-app.desktop/pot_screenshot_cut.png && curl "127.0.0.1:60828/ocr_translate?screenshot=false"  #截图翻译
+bind = $mainMod, I, exec, galculator #计算器
+
+bind = $mainMod, space, layoutmsg,  swapwithmaster # 与主交换/切换分割
+bind = $mainMod, G, layoutmsg, focusmaster # s焦点大师
+
+
+
+
+
+
+
+

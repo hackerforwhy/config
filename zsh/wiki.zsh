@@ -1,43 +1,16 @@
-#alias-wiki
-alias-wiki () {
-    echo "oh-my-alias-wiki"
-    echo "curl.cc "
-    echo "in : pacman -S"
-    echo "un : pacman -Rns"
-    echo "up : pacman -Syu"
-    echo "pl : pacman -Qs"
-    echo "pa : pacman -Ss"
-    echo "pc : pacman -S"
-    echo "po : pacman -Qtdq | sudo pacman -Rns "
-    echo "sl : sway-launcher-desktop"
-    echo "xy : watch -n 0.1 xdotool getmouselocation"
-    echo "ys : hyprpicker"
-    echo "e : emacs -nw"
-    echo "v2 : sudo systemctl start v2raya.service"
-    echo "ne : neofetch"
-    echo "tl : tldr"
-    echo "re : trash -put"
-    echo ""
-    
-}
+wiki() {
+  if [ -z "$1" ]; then
+    echo "Usage: wiki <filename>"
+    return 1
+  fi
 
-emacs-wiki (){
-    bat ~/Y/N/wiki/emacs.org 
-}
+  filename="$1"
+  directory="$HOME/Y/Note/wiki/"  # 将此目录替换为你想要搜索的目录
 
-kitty-wiki (){
-    bat ~/Y/N/wiki/kitty.org 
-}
+  if [ ! -d "$directory" ]; then
+    echo "未记载；Error: Directory '$directory' does not exist."
+    return 1
+  fi
 
-git-wiki (){
-    bat ~/Y/N/wiki/Git 
+  find "$directory" -name "$filename" -print -exec bat {} \;
 }
-
-pacman-wiki (){
-    bat ~/Y/N/wiki/pacman 
-}
-
-ranger-wiki (){
-    bat ~/Y/N/wiki/ranger 
-}
-

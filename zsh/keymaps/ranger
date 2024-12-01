@@ -1,0 +1,28 @@
+使用ranger --copy-config=all将在~/.config/ranger中生成一系列配置文件,其中ranger主要有4个配置文件.
+
+    rc.conf 常用于设置选项和绑定快捷键.(最常用)
+    scope.sh 常用于设置文件的预览方式.
+    rifle.conf 常用于设置使用那个软件来打开文件.
+    commands.py python文件,增强和改进ranger的各种功能.
+
+DD 删除文件
+
+gg：移到列表的顶部
+i：预览文件
+r：打开文件
+zh：查看隐藏文件
+cw：重命名当前文件
+yy：复制文件
+dd：剪切文件
+pp：粘贴文件
+u：撤销
+z：改变设置
+
+
+
+    :openwith：用你选择的程序打开一个选择的文件
+    :touch FILENAME：创建一个文件
+    :mkdir FILENAME：创建一个目录
+    :shell <command>：在 shell 中运行一个命令
+    :delete：删除文件
+

@@ -1,0 +1,6 @@
+2024/09/20-14:35:09.938 2589a Reusing MANIFEST /home/arch/.config/tabby/Local Storage/leveldb/MANIFEST-000001
+2024/09/20-14:35:09.938 2589a Recovering log #260
+2024/09/20-14:35:09.939 2589a Reusing old log /home/arch/.config/tabby/Local Storage/leveldb/000260.log 
+2024/09/20-14:36:10.961 2589b Level-0 table #264: started
+2024/09/20-14:36:10.966 2589b Level-0 table #264: 14663 bytes OK
+2024/09/20-14:36:10.971 2589b Delete type=0 #260

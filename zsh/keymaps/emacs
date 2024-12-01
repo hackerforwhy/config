@@ -1,0 +1,87 @@
+#+TITLE: emacs使用指南
+
+* 默认
+- C-x C-c    退出
+- C-x C-s    保存
+- C-x C-f    搜索文件
+- C-x C-b    显示所有buffer
+- M-w        复制
+- C-w        剪切
+- C-y        粘贴
+  
+* 杂项
+- <f3> 高亮当前符号 
+ 
+* 工具类
+** 书签
+- C-x r m 添加书签
+- C-x r l 列出书签
+- C-x r b 跳转到某个书签
+- 在*Bookmark List*这个buffer里，有以下快捷键可以使用：
+    a 显示当前书签的标注信息;
+    A 在另一个buffer中显示所有书签的所有标注信息;
+    d 标记书签，以便用来删除 (x – 执行删除);
+    e 编辑当前书签的标注信息;
+    m 标记书签，以便用于进一步显示和其他操作 (v – 访问这个书签);
+    o 选中当前书签，并显示在另一个window中;
+    C-o 在另一个window中切换到当前这个书签;
+    r 重命名当前书签;
+    w 将当前书签的位置显示在minibuffer里。
+
+** neotree (<f8>)
+- 快捷键 （NeoTree 窗口有效）
+    n 下一行 ， p 上一行。
+    SPC or RET or TAB 若是文件，在其他buffer打开；若是目录，可切换折叠、收起。
+    g 刷新树。
+    A 最大/最小化 NeoTree 窗口
+    U上一个目录
+    O递归打开目录
+    H 切换显示隐藏文件。
+    C-c C-n 创建文件，若以 / 结尾则表示创建文件夹。
+    C-c C-d 删除文件或目录。
+    C-c C-r 重命名文件或目录。
+    C-c C-c 改变根目录。
+    C-c C-p复制文件或目录  
+- 命令（全局有效）
+    neotree-dir 显示 NeoTree ，root 为 Minibuffer 中指定的一个目录。
+    neotree-show or neotree 显示 NeoTree ，root 默认为当前目录。
+    neotree-hide 隐藏 NeoTree 。
+    neotree-toggle 显示/隐藏 NeoTree 窗口。
+    neotree-find 显示 NeoTree ，并自动根据当前 Buffer 文件的路径定位到树中的节点。
+- 命令（NeoTree Buffer 有效）
+    neotree-enter 打开文件 / 折叠目录
+    neotree-refresh 刷新
+    neotree-stretch-toggle 最大/最小化
+    neotree-change-root 切换根目录
+    neotree-hidden-file-toggle 显示/隐藏 隐藏文件
+    neotree-rename-node 文件/目录 改名
+    neotree-delete-node 删除 文件/目录
+    neotree-create-node 创建文件，当以 / 结尾时表示创建目录 
+** edwina
+M-h / M-l     向左/右拓宽
+M-Q           关闭当前窗口
+M-j / M-k     下一个/上一个窗口
+
+** ace-window (M-0)
+- 中途改变动作
+ 您也可以通过致电开始 ace-window然后决定将动作切换到 delete或者 swap等等。默认情况下，绑定是：
+    x- 删除窗口
+    m- 交换窗口
+    M- 移动窗口
+    c- 复制窗口
+    j- 选择缓冲区
+    n- 选择上一个窗口
+    u- 在另一个窗口中选择缓冲区
+    c- 公平地分割窗口，垂直或水平
+    v- 垂直分割窗口
+    b- 水平分割窗口
+    o- 最大化当前窗口
+    ?- 显示这些命令绑定
+** avy 可视范围跳转 m-g f
+** 多鼠标编辑
+C-> / M-g >    向下
+C-< / M-g <    向上
+* 命令
+- emacs-init-time     显示emacs启动时间
+- package-...
+- 

@@ -1,15 +1,15 @@
 #export ALL_PROXY=socks5://127.0.0.1:20170
 
 # where proxy
-proxy () {
-  export all_proxy=socks5://127.0.0.1:20170
-  echo "Proxy on"
-}
-# where noproxy
-noproxy () {
-  unset all_proxy
-  echo "Proxy off"
-}
+#proxy () {
+#  export all_proxy=socks5://127.0.0.1:20170
+#  echo "Proxy on"
+#}
+## where noproxy
+#noproxy () {
+#  unset all_proxy
+#  echo "Proxy off"
+#}
 
 alias f="fzf --bind 'alt-s:execute(mpv {}),alt-e:execute(emacs -nw {}),alt-n:execute(nvim {}),alt-v:execute(vlc {}),alt-z:execute(7z x {})'"
 #alias ff="fzf --bind 'alt-s:execute(swayimg {}),alt-e:execute(emacsclient -c {}),alt-n:execute(nvim {}),alt-v:execute(tycat {})'"
@@ -64,6 +64,6 @@ ns ()
 #
 
 
-eval `dircolors $HOME/.dir_colors`
+# eval `dircolors $HOME/.dir_colors`
 
 eval "$(zoxide init zsh)"

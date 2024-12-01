@@ -1,0 +1,313 @@
+version: 7
+profiles:
+  - type: ssh
+    name: dog-香港-cld
+    icon: fas fa-desktop
+    options:
+      host: 206.237.19.227
+      algorithms: {}
+      input: {}
+      auth: password
+    weight: -1
+    id: ssh:custom:dog-cld:d68a6998-e4b4-469b-999e-a234e61a660d
+  - type: ssh
+    name: dog-香港mg
+    icon: fas fa-desktop
+    options:
+      host: 206.237.6.103
+      algorithms: {}
+      input: {}
+      auth: password
+    weight: -1
+    id: ssh:custom:dog:edf70707-c094-4cff-94b8-727b4afe1db1
+  - type: ssh
+    name: rack
+    icon: fas fa-desktop
+    options:
+      host: 198.23.223.37
+      algorithms: {}
+      input: {}
+      auth: password
+    weight: -1
+    id: ssh:custom:rack:b72c8f3d-db50-4d6e-9e5d-24e9d05f2b0f
+groups: []
+configSync:
+  parts: {}
+hotkeys:
+  toggle-window:
+    - Ctrl-Space
+  copy-current-path: []
+  ctrl-c:
+    - Ctrl-C
+  copy:
+    - Ctrl-Shift-C
+  paste:
+    - Ctrl-Shift-V
+    - Shift-Insert
+  select-all:
+    - Ctrl-Shift-A
+  clear: []
+  zoom-in:
+    - Ctrl-=
+    - Ctrl-Shift-=
+  zoom-out:
+    - Ctrl--
+    - Ctrl-Shift--
+  reset-zoom:
+    - Ctrl-0
+  home:
+    - Home
+  end:
+    - End
+  previous-word:
+    - Ctrl-Left
+  next-word:
+    - Ctrl-Right
+  delete-previous-word:
+    - Ctrl-Backspace
+  delete-line:
+    - Ctrl-Shift-Backspace
+  delete-next-word:
+    - Ctrl-Delete
+  search:
+    - Ctrl-Shift-F
+  pane-focus-all:
+    - Ctrl-Shift-I
+  focus-all-tabs:
+    - Ctrl-Alt-Shift-I
+  scroll-to-top:
+    - Ctrl-PageUp
+  scroll-up:
+    - Alt-PageUp
+  scroll-down:
+    - Alt-PageDown
+  scroll-to-bottom:
+    - Ctrl-PageDown
+  restart-telnet-session: []
+  restart-ssh-session: []
+  launch-winscp: []
+  settings-tab: {}
+  settings:
+    - Ctrl-,
+  serial:
+    - Alt-K
+  restart-serial-session: []
+  new-tab:
+    - Ctrl-Shift-T
+  new-window:
+    - Ctrl-Shift-N
+  profile: {}
+  profile-selectors: {}
+  toggle-fullscreen:
+    - F11
+  close-tab:
+    - Ctrl-Shift-W
+  reopen-tab:
+    - Ctrl-Shift-Z
+  toggle-last-tab: []
+  rename-tab:
+    - Ctrl-Shift-R
+  next-tab:
+    - Ctrl-Shift-Right
+    - Ctrl-Tab
+  previous-tab:
+    - Ctrl-Shift-Left
+    - Ctrl-Shift-Tab
+  move-tab-left:
+    - Ctrl-Shift-PageUp
+  move-tab-right:
+    - Ctrl-Shift-PageDown
+  rearrange-panes:
+    - Ctrl-Shift
+  duplicate-tab: []
+  restart-tab: []
+  reconnect-tab: []
+  disconnect-tab: []
+  explode-tab:
+    - Ctrl-Shift-.
+  combine-tabs:
+    - Ctrl-Shift-,
+  tab-1:
+    - Alt-1
+  tab-2:
+    - Alt-2
+  tab-3:
+    - Alt-3
+  tab-4:
+    - Alt-4
+  tab-5:
+    - Alt-5
+  tab-6:
+    - Alt-6
+  tab-7:
+    - Alt-7
+  tab-8:
+    - Alt-8
+  tab-9:
+    - Alt-9
+  tab-10:
+    - Alt-0
+  tab-11: []
+  tab-12: []
+  tab-13: []
+  tab-14: []
+  tab-15: []
+  tab-16: []
+  tab-17: []
+  tab-18: []
+  tab-19: []
+  tab-20: []
+  split-right:
+    - Ctrl-Shift-S
+  split-bottom:
+    - Ctrl-Shift-D
+  split-left: []
+  split-top: []
+  pane-nav-right:
+    - Ctrl-Alt-Right
+  pane-nav-down:
+    - Ctrl-Alt-Down
+  pane-nav-up:
+    - Ctrl-Alt-Up
+  pane-nav-left:
+    - Ctrl-Alt-Left
+  pane-nav-previous:
+    - Ctrl-Alt-[
+  pane-nav-next:
+    - Ctrl-Alt-]
+  pane-nav-1: []
+  pane-nav-2: []
+  pane-nav-3: []
+  pane-nav-4: []
+  pane-nav-5: []
+  pane-nav-6: []
+  pane-nav-7: []
+  pane-nav-8: []
+  pane-nav-9: []
+  pane-maximize:
+    - Ctrl-Alt-Enter
+  pane-increase-vertical: []
+  pane-decrease-vertical: []
+  pane-increase-horizontal: []
+  pane-decrease-horizontal: []
+  close-pane: []
+  switch-profile:
+    - Ctrl-Alt-T
+  profile-selector:
+    - Ctrl-Shift-E
+  command-selector:
+    - Ctrl-Shift-P
+terminal:
+  searchOptions: {}
+  colorScheme:
+    name: Atom
+    foreground: '#c5c8c6'
+    background: '#161719'
+    cursor: '#d0d0d0'
+    colors:
+      - '#000000'
+      - '#fd5ff1'
+      - '#87c38a'
+      - '#ffd7b1'
+      - '#85befd'
+      - '#b9b6fc'
+      - '#85befd'
+      - '#e0e0e0'
+      - '#000000'
+      - '#fd5ff1'
+      - '#94fa36'
+      - '#f5ffa8'
+      - '#96cbfe'
+      - '#b9b6fc'
+      - '#85befd'
+      - '#e0e0e0'
+  font: Hack Nerd Font
+  cursor: beam
+  fontSize: 16
+  ligatures: true
+  fallbackFont: Source Code Pro
+  frontend: xterm
+  bell: visual
+  customColorSchemes: []
+ssh:
+  knownHosts: []
+clickableLinks: {}
+accessibility: {}
+appearance: {}
+hacks: {}
+providerBlacklist: []
+commandBlacklist: []
+enableAnalytics: false
+enableWelcomeTab: false
+pluginBlacklist: []
+profileDefaults:
+  ssh:
+    disableDynamicTitle: true
+profileBlacklist: []
+backgroundPlugin:
+  uiFontEnabled: true
+  uiFontFamily: Hack Nerd Fond
+  backgroundEnabled: true
+  backgrounds:
+    - enabled: false
+      id: 7d65d26e-6552-4a80-9306-0f4d44982f85
+      name: bg1
+      backgroundPath: /home/arch/Pictures/background/不良人/女帝1.jpg
+      backgroundShowType: fullscreen
+      backgroundFullscreenType: cover
+      backgroundFullscreenRepeatType: no-repeat
+      backgroundFloatSize: 0
+      backgroundFloatX: 0
+      backgroundFloatY: 0
+      backgroundFloatXAlign: center
+      backgroundFloatYAlign: center
+      backgroundDropShadowEnabled: false
+      backgroundDropShadowX: 0
+      backgroundDropShadowY: 0
+      backgroundDropShadowBlur: 0
+      backgroundDropShadowColor: black
+      backgroundOpacity: 100
+      backgroundBlur: 0
+      backgroundBrightness: 100
+      backgroundContrast: 100
+      backgroundGrayscale: 0
+      backgroundHueRotate: 0
+      backgroundInvert: 0
+      backgroundSaturate: 100
+      backgroundSepia: 0
+      backgroundListGroupTransparent: 0
+      backgroundTerminalToolbarTransparent: 0
+      backgroundFooterTransparent: 50
+    - enabled: false
+      id: c9b28bab-dcf2-46ff-a8fe-9d1af9074ce0
+      name: bg0
+      backgroundPath: /home/arch/Pictures/background/3G3.jpg
+      backgroundShowType: fullscreen
+      backgroundFullscreenType: cover
+      backgroundFullscreenRepeatType: no-repeat
+      backgroundFloatSize: 0
+      backgroundFloatX: 0
+      backgroundFloatY: 0
+      backgroundFloatXAlign: center
+      backgroundFloatYAlign: center
+      backgroundDropShadowEnabled: false
+      backgroundDropShadowX: 0
+      backgroundDropShadowY: 0
+      backgroundDropShadowBlur: 0
+      backgroundDropShadowColor: black
+      backgroundOpacity: 100
+      backgroundBlur: 0
+      backgroundBrightness: 100
+      backgroundContrast: 100
+      backgroundGrayscale: 0
+      backgroundHueRotate: 0
+      backgroundInvert: 0
+      backgroundSaturate: 100
+      backgroundSepia: 0
+      backgroundListGroupTransparent: 0
+      backgroundTerminalToolbarTransparent: 0
+      backgroundFooterTransparent: 50
+  backgroundAdvancedSwitchType: slideshow
+  backgroundAdvancedChooseType: random
+  backgroundPath: /home/arch/Pictures/background/3G3.jpg
+  backgroundBlur: 1.2

@@ -70,18 +70,18 @@ ZSH_THEME="random"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=( git sudo zsh-autosuggestions zsh-syntax-highlighting 
+plugins=( git sudo 
         extract               #提取存档文件
         #z                      #快速跳跃
-        zsh-autosuggestions
-        zsh-syntax-highlighting
+        #zsh-autosuggestions
+        #zsh-syntax-highlighting
         codeclimate
         colored-man-pages
         colorize
         #hitokoto                #名言(zh)
         #fbterm                #仿真终端
         #compleat              #补全
-        web-search            #网络搜索
+        #web-search            #网络搜索
         #pass                  #密码管理
         pip
         #battery               #电池
@@ -131,16 +131,25 @@ zstyle ':omz:plugins:alias-finder' cheaper yes # disabled by default
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 #alias
-source ~/Y/N/my_config/zsh/alias.zsh 
+source ~/Y/my_config/zsh/alias.zsh 
 
 #PATH
-source ~/Y/N/my_config//zsh/PATH.zsh 
+source ~/Y/my_config//zsh/PATH.zsh 
 
 #my_config
-source ~/Y/N/my_config/zsh/config.zsh
+source ~/Y/my_config/zsh/config.zsh
 
 #wiki
-source ~/Y/N/my_config/zsh/wiki.zsh
+source ~/Y/my_config/zsh/wiki.zsh
+#keymaps
+source ~/Y/my_config/zsh/keymaps.zsh
 
 #自动完成
-source /usr/share/zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+#source /usr/share/zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+source ~/Y/my_config/zsh/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+source ~/Y/my_config/zsh/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh
+#alisa提示
+source ~/Y/my_config/zsh/zsh-you-should-use/you-should-use.plugin.zsh
+#高亮
+source ~/Y/my_config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
+

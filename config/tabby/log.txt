@@ -1,0 +1,1281 @@
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"8937f828a043251029987609d5e57365","desktopStartupId":"8937f828a043251029987609d5e57365","disable-http-cache":true,"disableHttpCache":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/arch","secondInstance":true}
+info: CLI handler matched:
+info: v
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+debug: Setting language to
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 85x55
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 85x55
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 85x55
+info: Destroying
+debug: Resizing to 85x53
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  QcQe8A7q3FNi016GD2qZL3z3Zpx6T1TQhRGHnXI/qF8= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 85x25
+debug: Resizing to 85x23
+debug: Resizing to 142x55
+debug: Resizing to 142x53
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+debug: Resizing to 142x54
+debug: Resizing to 142x52
+debug: Resizing to 85x54
+debug: Resizing to 85x52
+debug: Resizing to 235x54
+debug: Resizing to 235x52
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 235x54
+debug: Resizing to 235x56
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  QcQe8A7q3FNi016GD2qZL3z3Zpx6T1TQhRGHnXI/qF8= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+debug: Resizing to 223x56
+debug: Resizing to 235x56
+debug: Setting language to
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 235x56
+info: Destroying
+debug: Setting language to
+debug: Resizing to 235x54
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 235x54
+debug: Resizing to 235x54
+info: Destroying
+debug: Resizing to 235x52
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 235x52
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  QcQe8A7q3FNi016GD2qZL3z3Zpx6T1TQhRGHnXI/qF8= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 223x56
+debug: Resizing to 223x54
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+info: 尝试已保存的密码
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 223x54
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 223x52
+debug: Resizing to 223x54
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 223x54
+debug: Resizing to 223x54
+info: Destroying
+info: Destroying
+debug: Resizing to 223x52
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 195x51
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+info: Background applied.
+info: Background applied.
+info: Background applied.
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+info: Background applied.
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+info: Background applied.
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+debug: background c9b28bab-dcf2-46ff-a8fe-9d1af9074ce0 added...
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+debug: background 7d65d26e-6552-4a80-9306-0f4d44982f85 added...
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+info: Destroying
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+debug: Resizing to 208x51
+info: Destroying
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+debug: Setting language to
+info: Background applied.
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+debug: Resizing to 208x51
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+info: Destroying
+debug: Resizing to 208x51
+info: Destroying
+debug: Resizing to 195x51
+debug: Resizing to 208x51
+info: Destroying
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+info: Destroying
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  QcQe8A7q3FNi016GD2qZL3z3Zpx6T1TQhRGHnXI/qF8= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"9cd11d17-8562-458e-bc73-1d57a4e5b472","desktopStartupId":"9cd11d17-8562-458e-bc73-1d57a4e5b472","disable-http-cache":true,"disableHttpCache":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/arch","secondInstance":true}
+info: CLI handler matched:
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  QcQe8A7q3FNi016GD2qZL3z3Zpx6T1TQhRGHnXI/qF8= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x53
+debug: Resizing to 208x51
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+info: 尝试已保存的密码
+debug: Opening shell
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  QcQe8A7q3FNi016GD2qZL3z3Zpx6T1TQhRGHnXI/qF8= 
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+info: 尝试已保存的密码
+debug: Opening shell
+debug: Shell open
+info: Shell session ended
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x51
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+info: Destroying
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x49
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+info: Destroying
+info: Shell session ended
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+debug: Resizing to 195x51
+debug: Resizing to 208x51
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+debug: Resizing to 208x51
+debug: Resizing to 208x49
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  QcQe8A7q3FNi016GD2qZL3z3Zpx6T1TQhRGHnXI/qF8= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+info: Destroying
+debug: Shell open
+info: Shell session ended
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x49
+debug: Resizing to 208x51
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+info: 尝试已保存的密码
+debug: Opening shell
+debug: Shell open
+info: Destroying
+debug: Resizing to 76x49
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+debug: Setting language to
+debug: Resizing to 208x49
+debug: Resizing to 195x51
+debug: Resizing to 208x51
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+info: Destroying
+info: Background applied.
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+info: Starting profile 用户默认 {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"用户默认","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x51
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+info: 尝试已保存的密码
+debug: Opening shell
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+info: Shell session ended
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x53
+debug: Resizing to 208x51
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+info: 尝试已保存的密码
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x51
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  8c8rOZ9+tM7FkZpaaGaz4rTdfNl3eYRB4OARqOw23Sk= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  8c8rOZ9+tM7FkZpaaGaz4rTdfNl3eYRB4OARqOw23Sk= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+debug: Closing shell
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  8c8rOZ9+tM7FkZpaaGaz4rTdfNl3eYRB4OARqOw23Sk= 
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+info: 尝试已保存的密码
+debug: Opening shell
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+debug: Resizing to 76x49
+debug: Resizing to 208x49
+debug: Resizing to 76x49
+debug: Resizing to 208x49
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  8c8rOZ9+tM7FkZpaaGaz4rTdfNl3eYRB4OARqOw23Sk= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: Resizing to 76x49
+debug: Resizing to 208x49
+debug: readdir
+info: Downloading
+debug: open
+info: Destroying
+info: Shell session ended
+debug: Resizing to 76x49
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+debug: Resizing to 208x49
+debug: Resizing to 76x49
+debug: Resizing to 208x49
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 206x47
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  8c8rOZ9+tM7FkZpaaGaz4rTdfNl3eYRB4OARqOw23Sk= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+debug: Closing shell
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  8c8rOZ9+tM7FkZpaaGaz4rTdfNl3eYRB4OARqOw23Sk= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  8c8rOZ9+tM7FkZpaaGaz4rTdfNl3eYRB4OARqOw23Sk= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Shell session ended
+debug: Resizing to 195x51
+debug: Resizing to 208x51
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: unlink
+debug: readdir
+debug: unlink
+debug: readdir
+debug: unlink
+debug: readdir
+debug: unlink
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x51
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  8c8rOZ9+tM7FkZpaaGaz4rTdfNl3eYRB4OARqOw23Sk= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: Destroying
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  8c8rOZ9+tM7FkZpaaGaz4rTdfNl3eYRB4OARqOw23Sk= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: unlink
+debug: readdir
+info: Downloading
+debug: open
+debug: readdir
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 76x49
+debug: Resizing to 76x49
+debug: Resizing to 208x49
+debug: Resizing to 208x49
+debug: Resizing to 208x49
+debug: Resizing to 208x49
+debug: Resizing to 76x49
+debug: Resizing to 76x49
+debug: Resizing to 208x49
+debug: Resizing to 208x49
+debug: readdir
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  8c8rOZ9+tM7FkZpaaGaz4rTdfNl3eYRB4OARqOw23Sk= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Opening shell
+debug: Shell open
+debug: readdir
+info: Downloading
+debug: open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Shell session ended
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 126x49
+info: Host key fingerprint:
+info:  rsa-sha2-256  xcUY2IMXHetLNNqSU52ysEZqk1X1Hpt25ZNPeSsSXtU= 
+info: 尝试已保存的密码
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"rsa-sha2-256"}
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 208x49
+debug: Closing shell
+info: BackgroundService ctor
+info: v
+debug: Setting language to
+info: config ready
+info: Background applied.
+info: translate applied
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/arch","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 208x49
+debug: Resizing to 194x49
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  8c8rOZ9+tM7FkZpaaGaz4rTdfNl3eYRB4OARqOw23Sk= 
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+debug: Resizing to 194x51
+debug: Resizing to 208x51
+debug: Resizing to 208x49
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  QcQe8A7q3FNi016GD2qZL3z3Zpx6T1TQhRGHnXI/qF8= 
+info: Handshake complete: {"cs":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"kex":"curve25519-sha256","sc":{"cipher":"aes128-ctr","compress":"none","lang":"","mac":"hmac-sha1"},"serverHostKey":"ecdsa-sha2-nistp256"}
+info: 尝试已保存的密码
+debug: Opening shell
+debug: Shell open
+info: Destroying

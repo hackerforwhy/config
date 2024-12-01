@@ -1,0 +1,14 @@
+2024/11/21-10:41:27.222 143e9 Reusing MANIFEST /home/arch/.config/tabby/Local Storage/leveldb/MANIFEST-000001
+2024/11/21-10:41:27.241 143e9 Recovering log #263
+2024/11/21-10:41:27.242 143e9 Level-0 table #266: started
+2024/11/21-10:41:27.247 143e9 Level-0 table #266: 16966 bytes OK
+2024/11/21-10:41:27.254 143e9 Delete type=0 #263
+2024/11/21-10:41:27.254 143e9 Compacting 4@0 + 1@1 files
+2024/11/21-10:41:27.263 143e9 Generated table #268@0: 5 keys, 8198 bytes
+2024/11/21-10:41:27.264 143e9 Compacted 4@0 + 1@1 files => 8198 bytes
+2024/11/21-10:41:27.271 143e9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/21-10:41:27.272 143e9 Delete type=2 #259
+2024/11/21-10:41:27.272 143e9 Delete type=2 #256
+2024/11/21-10:41:27.272 143e9 Delete type=2 #261
+2024/11/21-10:41:27.272 143e9 Delete type=2 #264
+2024/11/21-10:41:27.272 143e9 Delete type=2 #266
